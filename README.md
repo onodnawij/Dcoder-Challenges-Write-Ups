@@ -2,6 +2,8 @@
 Yes. This is my write-ups Dcoder Challenge that I've ben solved. \
 I used [Python3](https://www.python.org/) to solve them. So if you are not using Python, maybe you can take a look for the logical.
 
+[Table Of Contents](https://github.com/omdo/Dcoder-Challenges-Write-Ups#table-of-contents)
+
 **SPOILER AHEAD!**\
 I include the solution too. In Python ofcourse.\
 If you want to feel the real challenge, then dont read this write-ups.
@@ -18,3 +20,6 @@ So, you could think the way i think to solve the challenge. Also, this can be ot
 
 # Discuss ?
 Let's discuss. It's Free!
+
+# Table Of Contents
+1. [Rotate Array](https://github.com/omdo/Dcoder-Challenges-Write-Ups/tree/master/Easy/Rotate%20Array)
