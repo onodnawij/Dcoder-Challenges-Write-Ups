@@ -2,6 +2,8 @@
 Dcoded By: Saurav Chandra \
 Maximum Marks: 6
 
+[*skip to solution*](https://github.com/omdo/Dcoder-Challenges-Write-Ups/blob/master/Easy/Rotate%20Array/solution.md)
+
 ## Problem Statement
 You are given an array of N length. You have to rotate the array rightwards by K rotations, that is, shift each element to the right by K positions. Print the rotated array.
 

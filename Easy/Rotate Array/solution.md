@@ -35,7 +35,7 @@ for i in range(K):
 print(' '.join(array))					#the output must be in the same format as the sample output.
 ```
 
-### Wrap Up
+## Wrap Up
 The code will be like this:
 ```python
 N, K = [int(x) for x in input().split(' ')]
