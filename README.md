@@ -23,3 +23,4 @@ Let's discuss. It's Free!
 
 # Table Of Contents
 1. [Rotate Array](https://github.com/omdo/Dcoder-Challenges-Write-Ups/tree/master/Easy/Rotate%20Array)
+2. [Floating Number](https://github.com/omdo/Dcoder-Challenges-Write-Ups/blob/master/Easy/Floating%20Number/)
