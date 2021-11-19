@@ -27,3 +27,4 @@ Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/di
 3. [SwapMaster solves Symmetric Swap](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/tree/master/Easy/SwapMaster%20solves%20Symmetric%20Swap)
 4. [String Matching](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/String%20Matching/)
 5. [Leap Year](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Leap%20Year/)
+6. [Project Teams](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Project%20Teams/)
