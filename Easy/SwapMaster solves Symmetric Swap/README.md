@@ -2,7 +2,7 @@
 Dcoded By: Mrudul Sankhere \
 Maximum Marks: 4
 
-[*skip to solution*](https://github.com/omdo/Dcoder-Challenges-Write-Ups/blob/master/Easy/SwapMaster%20solves%20Symmetric%20Swap/solution.md)
+[*skip to solution*](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/SwapMaster%20solves%20Symmetric%20Swap/solution.md)
 
 ## Problem Statement
 The SwapMaster is known to be the greatest and fastest swapper of all time.\

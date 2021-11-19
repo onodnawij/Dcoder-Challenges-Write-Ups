@@ -2,7 +2,7 @@
 Yes. This is my write-ups Dcoder Challenge that I've ben solved. \
 I used [Python3](https://www.python.org/) to solve them. So if you are not using Python, maybe you can take a look for the logical.
 
-[Table Of Contents](https://github.com/omdo/Dcoder-Challenges-Write-Ups#table-of-contents)
+[Table Of Contents](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups#table-of-contents)
 
 **SPOILER AHEAD!**\
 I include the solution too. In Python ofcourse.\
@@ -19,9 +19,9 @@ Well, Yes. But my point here is to share **How I solve that**. \
 So, you could think the way i think to solve the challenge. Also, this can be other refference of solving that challenge if you already did.
 
 # Discuss ?
-Let's discuss [here](https://github.com/omdo/Dcoder-Challenges-Write-Ups/discussions). It's Free!
+Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/discussions). It's Free!
 
 # Table Of Contents
-1. [Rotate Array](https://github.com/omdo/Dcoder-Challenges-Write-Ups/tree/master/Easy/Rotate%20Array)
-2. [Floating Number](https://github.com/omdo/Dcoder-Challenges-Write-Ups/blob/master/Easy/Floating%20Number/)
-3. [SwapMaster solves Symmetric Swap](https://github.com/omdo/Dcoder-Challenges-Write-Ups/tree/master/Easy/SwapMaster%20solves%20Symmetric%20Swap)
+1. [Rotate Array](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/tree/master/Easy/Rotate%20Array)
+2. [Floating Number](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Floating%20Number/)
+3. [SwapMaster solves Symmetric Swap](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/tree/master/Easy/SwapMaster%20solves%20Symmetric%20Swap)

@@ -2,7 +2,7 @@
 Dcoded By: Saurav Chandra \
 Maximum Marks: 4
 
-[*skip to solution*](https://github.com/omdo/Dcoder-Challenges-Write-Ups/blob/master/Easy/Floating%20Number/solution.md)
+[*skip to solution*](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Floating%20Number/solution.md)
 
 ## Problem Statement
 Bob has a floating point number N. He wants to set the precision for 2 digits after the decimal point for the number. He is not good at coding, hence looking for your help.
