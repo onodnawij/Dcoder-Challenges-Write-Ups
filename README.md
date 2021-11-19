@@ -24,3 +24,4 @@ Let's discuss [here](https://github.com/omdo/Dcoder-Challenges-Write-Ups/discuss
 # Table Of Contents
 1. [Rotate Array](https://github.com/omdo/Dcoder-Challenges-Write-Ups/tree/master/Easy/Rotate%20Array)
 2. [Floating Number](https://github.com/omdo/Dcoder-Challenges-Write-Ups/blob/master/Easy/Floating%20Number/)
+3. [SwapMaster solves Symmetric Swap](https://github.com/omdo/Dcoder-Challenges-Write-Ups/tree/master/Easy/SwapMaster%20solves%20Symmetric%20Swap)
