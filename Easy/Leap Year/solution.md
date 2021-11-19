@@ -1,85 +1,42 @@
 # Solution
 
 ## Understanding
-Pretty simple. My task is to check wether given `year` is a leap year or not.
+Reading the problem description, it looks like I must create and array with `N` elements and then slice them to many array that consist of 3 or above elements.\
+**Actually it isn't like that**
 
 ## Try
 
-### Accept the inputs:
-Assign the `T` for the loop then assign `year` inside the loop and convert it from string to integer.
-```python
-for T in range(int(input())):
-	year = int(input())
-```
-
 ### Do the Logical
-In short, Leap Year is **any year that can be devided by 4**.\
-To check wether a number can be divided by 4 in Python can be done by using the `%` [Modulo operator](https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/#:~:text=The%20%25%20symbol%20in%20Python%20is,remainder%20of%20a%20division%20problem.).\
-The `%` returns the remainder of left hand operand after divided by the right hand operand.\
-For example:
-```python
-x = 12 % 4
-y = 15 % 4
-
-print(x, y)
->>> 0 3         # 0 is the remainder of 12, and 3 is the remainder of 15
+Logically, I just need to divide `N` by 3, and ignore the remains.\
+OK I'll explain it.\
+The task is to form groups with 3 or above members from `N` total members.\
+Let's use 8 for example. So the groups will be `4` + `4` because the groups cannot be less than 3 members.\
+That means if we divide `8` by `3` the result is `2` 3-member-groups with `2` member-remains, right ? Then we add 1 remain to each group until there are no remain left.
 ```
-With that we can use the result from `%` operation as a boolean and use it as a criteria in a condition. The boolean value will only be `False` if it is `0`, any number except `0` will be `True`.\
-That means, if we `%` a number, it will return `False` if it can be devided by the other number, and otherwise.
-So my code goes like this:
-```python
-    result = 'No' if year % 4 else 'Yes'
-```
-Submitted it, and it didn't work for some test case.
-![](fail.png)
+[3, 3]       #2 remains
+[3+1, 3+1]   #0 remains
+[4, 4]
 
-### Here's the catch
-At this point, I remember back in school, there are years that can be divided by 4 but it isn't a leap year.\
-After a quick research, the year that can be devided by 100 is not a leap year except it can be divided by 400.\
-I decided to make it a function:
-```python
-def is_leap_year(n):
-    if not year % 4:
-        if not year % 100:
-            if not year % 400:
-                result = True
-            else:
-                result = False
-        else:
-            result = True
-    else:
-        result = False
+or
 
-    return result
-```
-Then changed my code a bit:
-```python
-    result = 'Yes' if is_leap_year(year) else 'No'
+[3+2, 3]
+[5, 3]        #still meet the condition (members >= 3)
 ```
 
-Aaaaannddd it works!
+I think thats enough explanation, because the solution is just a single line :smile:
+
+In Python we can divide numbers and ignore the remains using `//` operator.\
+So the code will be like this:
+```python
+print(int(input())//3)
+```
+
+Yep that's it. That's the solution.
 
 ## Wrap Up
 The final code will be like this:
 ```python
-def is_leap_year(n):
-    if not year % 4:
-        if not year % 100:
-            if not year % 400:
-                result = True
-            else:
-                result = False
-        else:
-            result = True
-    else:
-        result = False
-
-    return result
-
-for T in range(int(input())):
-    year = int(input())
-    result = 'Yes' if is_leap_year(year) else 'No'
-    print(result)
+print(int(input())//3)
 ```
 
 ### Solved!
