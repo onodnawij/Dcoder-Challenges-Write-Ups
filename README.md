@@ -19,7 +19,7 @@ Well, Yes. But my point here is to share **How I solve that**. \
 So, you could think the way i think to solve the challenge. Also, this can be other refference of solving that challenge if you already did.
 
 # Discuss ?
-Let's discuss. It's Free!
+Let's discuss [here](https://github.com/omdo/Dcoder-Challenges-Write-Ups/discussions). It's Free!
 
 # Table Of Contents
 1. [Rotate Array](https://github.com/omdo/Dcoder-Challenges-Write-Ups/tree/master/Easy/Rotate%20Array)
