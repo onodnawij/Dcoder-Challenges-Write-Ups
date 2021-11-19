@@ -25,4 +25,4 @@ Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/di
 1. [Rotate Array](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/tree/master/Easy/Rotate%20Array)
 2. [Floating Number](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Floating%20Number/)
 3. [SwapMaster solves Symmetric Swap](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/tree/master/Easy/SwapMaster%20solves%20Symmetric%20Swap)
-4. [String Matching]((https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/String%20Matching/)
+4. [String Matching](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/String%20Matching/)
