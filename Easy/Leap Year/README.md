@@ -1,8 +1,8 @@
-# String Matching
+# Leap Year
 Dcoded By: Bhanu Nadar \
 Maximum Marks: 6
 
-[*skip to solution*](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/String%20Matching/solution.md)
+[*skip to solution*](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Leap%20Year/solution.md)
 
 ## Problem Statement
 Steve is playing a quiz game with his brother John. As Steve just learned the concept of leap year, John wanted to test his knowledge.\
