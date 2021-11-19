@@ -1,4 +1,4 @@
-# String Matching
+# Project Teams
 Dcoded By: Bhanu Nadar \
 Maximum Marks: 6
 
