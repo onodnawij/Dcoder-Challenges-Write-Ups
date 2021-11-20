@@ -225,8 +225,7 @@ def word_to_number(x):
     return base + res
 
 
-word = (input().lower()).split(' ')
-word = [word.lower() for word in word.split(' ')]
+word = input().lower().split(' ')
 
 print(word_to_number(word))
 ```
