@@ -28,3 +28,4 @@ Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/di
 4. [String Matching](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/String%20Matching/)
 5. [Leap Year](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Leap%20Year/)
 6. [Project Teams](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Project%20Teams/)
+7. [Circle of Numbers](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Circle%20of%20Numbers/
