@@ -22,6 +22,7 @@ So, you could think the way i think to solve the challenge. Also, this can be ot
 Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/discussions). It's Free!
 
 # Table Of Contents
+### Easy
 1. [Rotate Array](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/tree/master/Easy/Rotate%20Array)
 2. [Floating Number](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Floating%20Number/)
 3. [SwapMaster solves Symmetric Swap](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/tree/master/Easy/SwapMaster%20solves%20Symmetric%20Swap)
@@ -29,3 +30,6 @@ Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/di
 5. [Leap Year](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Leap%20Year/)
 6. [Project Teams](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Project%20Teams/)
 7. [Circle of Numbers](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Easy/Circle%20of%20Numbers/)
+
+### Medium
+1. [Symmetric Matrix](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Medium/Symmetric%20Matrix/)
