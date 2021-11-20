@@ -35,4 +35,4 @@ Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/di
 1. [Symmetric Matrix](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Medium/Symmetric%20Matrix/)
 
 ### Hard
-1. [Number to Word](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Medium/Number%20to%20Word/)
+1. [Number to Word](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Hard/Number%20to%20Word/)
