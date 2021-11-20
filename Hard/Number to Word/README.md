@@ -2,7 +2,7 @@
 Dcoded By: Mrudul Sankhere \
 Maximum Marks: 20
 
-[*skip to solution*](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Medium/Number%20to%20Word/solution.md)
+[*skip to solution*](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Hard/Number%20to%20Word/solution.md)
 
 ## Problem Statement
 Wade has now yet again decided to practice conversion between numbers and words. This time, he needs to convert a number in its word form to its numerical form. For example, "four hundred sixty seven" gets converted to 467. Please help Wade in accomplishing his task. The word form will follow US System (billions, millions, etc.) not Indian System(crores or lakhs). NOTE : The words in the string maybe in capitalized form or in lowercase or mixed.
