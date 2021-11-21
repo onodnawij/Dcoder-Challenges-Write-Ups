@@ -33,6 +33,7 @@ Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/di
 
 ### Medium
 1. [Symmetric Matrix](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Medium/Symmetric%20Matrix/)
+2. [Simple Multiplication Problem](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Medium/Simple%20Multiple%20Problem/)
 
 ### Hard
 1. [Number to Word](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Hard/Number%20to%20Word/)
