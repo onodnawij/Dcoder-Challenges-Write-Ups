@@ -38,7 +38,7 @@ B.index('fourteen') + 10
 
 Like the `A` and `B`, I put the **tens** (idk what it is called too) into an array.
 ```python
-C = ['zero', 'ten', 'twenty', 'thirty', 'fourty', 'fifty',
+C = ['zero', 'ten', 'twenty', 'thirty', 'forty', 'fifty',
     'sixty', 'seventy', 'eighty', 'ninety']
 ```
 With that if I get the index of it and multiple it by `10`, I got the right number.
@@ -74,20 +74,20 @@ temp = 0
 while word:
     if not word[0] in D.keys():
         if word[0] in A:
-            temp += A.index(x[0])
+            temp += A.index(word[0])
         elif word[0] in B:
-            temp += 10 + B.index(x[0])
+            temp += 10 + B.index(word[0])
         elif word[0] in C:
-            temp += 10 * C.index(x[0])
+            temp += 10 * C.index(word[0])
 
     else:
-        temp *= (10**D[x[0]])
+        temp *= (10**D[word[0]])
 
-        if D[x[0]] > 2:
+        if D[word[0]] > 2:
             base += temp
             temp = 0
 
-    x.remove(x[0])
+    x.remove(word[0])
 
 result = base + temp
 ```
@@ -101,28 +101,28 @@ temp = 0
 
 while word:
     if not word[0] in D.keys():
-        print(f'[*]{repr(x[0])} is not in D')
+        print(f'[*]{repr(word[0])} is not in D')
         if word[0] in A:
-            print(f'[*]{repr(x[0])} is in A. +{A.index(x[0])} to temp')
-            temp += A.index(x[0])
+            print(f'[*]{repr(word[0])} is in A. +{A.index(word[0])} to temp')
+            temp += A.index(word[0])
         elif word[0] in B:
-            print(f'[*]{repr(x[0])} is in B. +{10 + B.index(x[0])} to temp')
-            temp += 10 + B.index(x[0])
+            print(f'[*]{repr(word[0])} is in B. +{10 + B.index(word[0])} to temp')
+            temp += 10 + B.index(word[0])
         elif word[0] in C:
-            print(f'[*]{repr(x[0])} is in C. +{10 * C.index(x[0])} to temp')
-            temp += 10 * C.index(x[0])
+            print(f'[*]{repr(word[0])} is in C. +{10 * C.index(word[0])} to temp')
+            temp += 10 * C.index(word[0])
 
     else:
-        print(f'[*]{repr(x[0])} is in D. multiply the temp by {(10**D[x[0]])}')
-        temp *= (10**D[x[0]])
+        print(f'[*]{repr(word[0])} is in D. multiply the temp by {(10**D[word[0]])}')
+        temp *= (10**D[word[0]])
 
-        if D[x[0]] > 2:
-            print(f'[*]{repr(x[0])} is thousand or above. +temp to base')
+        if D[word[0]] > 2:
+            print(f'[*]{repr(word[0])} is thousand or above. +temp to base')
             base += temp
             print(f'[*]reset the temp to 0')
             temp = 0
-    print(f'[*]removed {repr(x[0])} from the array')
-    x.remove(x[0])
+    print(f'[*]removed {repr(word[0])} from the array')
+    x.remove(word[0])
 
     print('[*]Current:')
     print(f'\tbase: {res}')
@@ -195,7 +195,7 @@ A = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven',
     'eight', 'nine']
 B = ['ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen',
     'sixteen', 'seventeen', 'eighteen', 'nineteen']
-C = ['dummy1', 'dummy2', 'twenty', 'thirty', 'fourty', 'fifty',
+C = ['zero', 'ten', 'twenty', 'thirty', 'forty', 'fifty',
     'sixty', 'seventy', 'eighty', 'ninety']
 D = {'hundred': 2, 'thousand': 3, 'million': 6,
     'billion': 9, 'trillion': 12}
@@ -225,8 +225,7 @@ def word_to_number(x):
     return base + res
 
 
-word = (input().lower()).split(' ')
-word = [word.lower() for word in word.split(' ')]
+word = input().lower().split(' ')
 
 print(word_to_number(word))
 ```
