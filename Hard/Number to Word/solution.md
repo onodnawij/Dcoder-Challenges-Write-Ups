@@ -127,7 +127,7 @@ while word:
     print('[*]Current:')
     print(f'\tbase: {res}')
     print(f'\ttemp: {base}')
-    print(f'\tarray: {x}')
+    print(f'\tarray: {word}')
     print()
 
 result = base + temp
