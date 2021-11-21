@@ -36,3 +36,4 @@ Let's discuss [here](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/di
 
 ### Hard
 1. [Number to Word](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Hard/Number%20to%20Word/)
+2. [Magic Chessboard](https://github.com/onodnawij/Dcoder-Challenges-Write-Ups/blob/master/Hard/Magic%20Chessboard/)
